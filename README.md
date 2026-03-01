@@ -17,8 +17,6 @@
 - 🏃 I love walking — clears my mind and inspires my workflow  
 - 👯 I’m open to collaborating on web apps and frontend systems  
 - 🎯 My goal: Build interfaces that feel like magic ✨
-<img src="https://raw.githubusercontent.com/okineadev/okineadev/main/assets/animation.gif" alt="svg" /> 
-
  
 
 ---
@@ -38,12 +36,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=lukemor17&show_icons=true&theme=radical" 
-    alt="lukemor17's GitHub stats" 
-    width="400"
-  />
+
   <img 
     src="https://streak-stats.demolab.com?user=lukemor17&theme=radical&hide_border=true" 
     width="400"
