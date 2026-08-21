@@ -49,11 +49,11 @@
 
 
 <div align="center">
-<a href="https://github.com/lukemor17/graph">
+<a href="https://github.com/BryanFrontend/graph">
   <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=lukemor17&repo=graph&theme=buefy" />
 </a>
 
-<a href="https://github.com/lukemor17/BarbersBuddies_Onlineshop_maker">
+<a href="https://github.com/BryanFrontend/BarbersBuddies_Onlineshop_maker">
   <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=lukemor17&repo=BarbersBuddies_Onlineshop_maker&theme=buefy" />
 </a>
 
